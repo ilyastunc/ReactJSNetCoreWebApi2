@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmX+Ximj9kkGMqUQHJi7qwFC9R0SZO5ni7j1PeHbFR2Bf6Ldcu3f6bpu7GYnvtLYO0Lo8lDde1UM3RYxEjmp8w==",
+  "success": true,
+  "projectFilePath": "/Users/tunc/Documents/C#/React/ReactJSNetCoreWebApi2/ReactJSNetCoreWebApi2.csproj",
+  "expectedPackageFiles": [
+    "/Users/tunc/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.10/microsoft.aspnetcore.jsonpatch.3.1.10.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.10/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.10.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/system.data.sqlclient/4.8.5/system.data.sqlclient.4.8.5.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/tunc/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
